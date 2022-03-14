@@ -42,5 +42,7 @@ Origin:	Car country of manufacture.
 
 car_name:	Car model.
 
+The models that you'll be building will depend on the physical characteristics of the cars rather than the model names or manufacturers, so you'll remove the corresponding columns from the data. [model_year, car_name]
+
 ## Inspiration
 I have used this dataset for practicing my exploratory analysis skills and bulding a machine learning model to predict mileage per gallon.
