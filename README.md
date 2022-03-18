@@ -1,11 +1,7 @@
-
-## Context
-The data is technical spec of cars. The dataset is downloaded from UCI Machine Learning Repository which contains one row per car model.
-#### Data link: https://archive.ics.uci.edu/ml/datasets/auto+mpg
-
 ## Content
 
 ### 1. Sources and Relevant Information:
+The [dataset] (https://archive.ics.uci.edu/ml/datasets/auto+mpg) is downloaded from UCI Machine Learning Repository which contains one row per car model.
 This dataset was taken from the StatLib library which is
 maintained at ***Carnegie Mellon University**** and was 
 used in the July 7, 1993 American Statistical Association Exposition.
@@ -18,9 +14,8 @@ dataset is available in the file "auto-mpg.data-original".
 to be predicted in terms of 3 multivalued discrete and 5 continuous
 attributes." (Quinlan, 1993)
 
-### 3.	Number of Instances: 398. Number of Attributes: 9 
-
-### 4.	The Data Dictionary 
+#### ***Number of Instances: 398. Number of Attributes: 9***
+#### 4.	The Data Dictionary 
 
 Mpg:	Miles per Gallon.
 
@@ -46,6 +41,13 @@ The models that you'll be building will depend on the physical characteristics o
 
 - 63%of cars  are American, about 17.5% are European, and about 19.5% are Japanese.
 ![origin](https://user-images.githubusercontent.com/84151016/159078699-e515960d-1ad3-4ab3-83b0-a003d532f6af.png)
+
+But they may be important in the analysis. We'll take about year in this readme file. 
+Butfor the name, Somewhat expected observation is that the models differ greatly according to the country in which they are manufactured. As every country has it's own company and it's brands in the field of car.
+For example, we foundt that:
+
+![car and model](https://user-images.githubusercontent.com/84151016/159081199-0c7a5386-0e66-4a10-bb78-a4372f38d39b.png)
+
 
 There are little number cars in our dataset whose high-efficiency, and which can travel a large number of miles per gallon.
 
@@ -102,11 +104,6 @@ And the distribution has a bell shaped, and a small number of cars in the datase
 Our target is a building predictive model based on the physical characteristics of each Arabic, meaning the year, name columns are not important, and we do the machine learning model.
 
 ![car models](https://user-images.githubusercontent.com/84151016/159078753-2a8cd264-9f8c-47cc-8873-a7bc0d75374c.png)
-
-
-But they may be important in the analysis. For the year, we talked about it enough. 
-As for the name, Somewhat expected observation is that the models differ greatly according to the country in which they are manufactured. As every country has it's own company and it's brands in the field of car.
-For example, we foundt that:
 
 
 [opel, saab, mercedes-benz, bmw…etc] is with Europe orign country.
