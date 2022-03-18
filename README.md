@@ -40,7 +40,8 @@ The model that you'll be building will depend on the physical characteristics of
 But they may be important in the analysis. We'll take about year in this readme file. 
 Butfor the name, Somewhat expected observation is that the models differ greatly according to the country in which they are manufactured. As every country has it's own company and it's brands in the field of car.
 For example, we foundt that:
-![24322577-ebe6a4c02f5e7948cf0424ff724d13f5](https://user-images.githubusercontent.com/84151016/159092081-daed365d-efeb-41ce-bc6b-fe06d412fc17.png)
+
+![24322577-ebe6a4c02f5e7948cf0424ff724d13f5](https://user-images.githubusercontent.com/84151016/159092200-5838876f-b8ff-4768-b91d-8fe16cd6d22b.png)
 
 
 The relation between origin country and car model.
