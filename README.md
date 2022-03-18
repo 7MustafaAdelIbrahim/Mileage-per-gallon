@@ -1,7 +1,7 @@
 ## Content
 
 ### 1. Sources and Relevant Information:
-The [dataset] (https://archive.ics.uci.edu/ml/datasets/auto+mpg) is downloaded from UCI Machine Learning Repository which contains one row per car model.
+The [dataset](https://archive.ics.uci.edu/ml/datasets/auto+mpg) is downloaded from UCI Machine Learning Repository which contains one row per car model.
 This dataset was taken from the StatLib library which is
 maintained at ***Carnegie Mellon University**** and was 
 used in the July 7, 1993 American Statistical Association Exposition.
