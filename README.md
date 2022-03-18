@@ -17,25 +17,20 @@ attributes." (Quinlan, 1993)
 #### ***Number of Instances: 398. Number of Attributes: 9***
 #### The Data Dictionary 
 
-Mpg:	Miles per Gallon.
 
-cylinders:	No. of Cylinders.
+| Column        | Contains      |       
+| ------------- | ------------- | 
+| MPG  | Miles per Gallon.| 
+| cylinders  | No. of Cylinders.| 
+| displacement  | Engine size.| 
+|horsepower |	Engine power.|
+|Weight| Car weight.|
+|acceleration| how fast can accelerate in seconds|
+|model_year| Car year model.|
+|Origin | Car country of manufacture.|
+|car_name | Car model.|
 
-displacement:	Engine size.
-
-horsepower:	Engine power.
-
-Weight:	Car weight.
-
-acceleration: how fast can accelerate in seconds
-
-model_year:	Car year model.
-
-Origin:	Car country of manufacture.
-
-car_name:	Car model.
-
-The models that you'll be building will depend on the physical characteristics of the cars rather than the model names or manufacturers, so you'll remove the corresponding columns from the data. [model_year, car_name]
+The model that you'll be building will depend on the physical characteristics of the cars rather than the model names or manufacturers, so you'll remove the corresponding columns from the data. [model_year, car_name]
 
 ### conclusions
 
