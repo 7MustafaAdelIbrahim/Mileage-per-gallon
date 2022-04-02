@@ -32,9 +32,11 @@ attributes." (Quinlan, 1993)
 
 The model that you'll be building will depend on the physical characteristics of the cars rather than the model names or manufacturers, so you'll remove the corresponding columns from the data. [model_year, car_name]
 
-### conclusions
+### EDA and Data visualization.
 
-- 63%of cars  are American, about 17.5% are European, and about 19.5% are Japanese.
+The ultimate goal of data visualization is to tell a story. We are trying to convey information about the data as efficiently as possible. Visualizing means encoding information about the data in a graphical way. Doing this well allows the reader can quickly and accurately understand the message we are trying to transmit.
+
+- 63.5 % of cars  are American, about 17.5% are European, and about 19.8% are Japanese made.
 ![origin](https://user-images.githubusercontent.com/84151016/159078699-e515960d-1ad3-4ab3-83b0-a003d532f6af.png)
 
 But they may be important in the analysis. We'll take about year in this readme file. 
@@ -110,8 +112,8 @@ Our target is a building predictive model based on the physical characteristics 
 [Toyota, Datsun, honda…etc] is with japanes origin country. 
 [Ford, Chevrolet, Plymouth, amc, dodge…etc] are American.
 
-wich makesn sense, and somewhat expected.
+wich makes sense, and somewhat expected.
 
 
 ## Inspiration
-I have used this dataset for practicing my exploratory analysis skills and bulding a machine learning model to predict mileage per gallon.
+I have used this dataset for practicing my exploratory analysis skills and bulding a machine learning model to predict MPG.
